@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\+ DOCUMENTS +\01 - Université\Bac. en Génie logiciel\Session 2 (2023-01-05)\INF111 - Programmation orientée-objet\LABORATOIRES\Labo_3\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
